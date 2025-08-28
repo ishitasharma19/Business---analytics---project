@@ -21,14 +21,32 @@ The idea is to showcase how I can work with raw data, build dashboards, and use 
 - Tried to predict revenue using Quantity & Price.  
 - Plotted data distributions and regression lines to understand patterns.  
 
----
 
 ## Tools & Technologies  
 - SQL (SQLite syntax)  
 - Excel (Pivot tables, charts, dashboard building)  
-- Python (Pandas, Matplotlib, Seaborn, scikit-learn)  
+- Python (Pandas, Matplotlib, Seaborn, scikit-learn)
 
----
+## PowerBI Dashboard
+
+- [Download Interactive Dashboard (.pbix)](PowerBI/Business_Analytics_Dashboard.pbix)
+
+### Dashboard Preview
+
+Monthly Revenue Trend
+![Monthly Revenue](images/dashboard_monthly_revenue.png)
+
+Top 5 Products by Revenue
+![Top Products](images/dashboard_top_products.png)
+
+Revenue Share by Category
+![Revenue Share](images/dashboard_category_share.png)
+
+Dashboard Layout
+![Layout](images/powerbi_dashboard_layout.png)
+
+
+
 
 ## How to Explore  
 1. Open `queries.sql` to check sample SQL queries.  
