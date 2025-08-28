@@ -1,0 +1,9 @@
+Steps to Create Excel Dashboard:
+1. Import 'sample_sales_data.csv' into Excel.
+2. Create Pivot Table for:
+   - Revenue by Region
+   - Top Products by Revenue
+   - Monthly Sales Trend
+3. Insert Pivot Charts for each KPI.
+4. Combine into one Dashboard sheet.
+5. Add slicers for Region and Category filters.
