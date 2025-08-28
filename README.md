@@ -1,34 +1,38 @@
-# Business Analytics Projects
+# Business Analytics Projects  
 
-This repository demonstrates my hands-on experience with SQL, Excel dashboards, and Python-based statistical analysis ideal for showcasing analytics skills for Business Analyst roles.
+This repository contains some of my practice projects where I applied SQL, Excel, and Python to analyze business data.  
+The idea is to showcase how I can work with raw data, build dashboards, and use statistics to generate useful insights.  
 
-## How to View Projects
-1. Open this repo to read the overview and project descriptions.
-2. Sales Data Analysis: View `queries.sql` for SQL queries and `sample_sales_data.csv` for dataset.
-3. Customer Retention Dashboard (Excel): Follow instructions in `dashboard_instructions.txt` to build the dashboard.
-4. Statistical Analysis (Python): Open `analysis.ipynb` notebook on GitHub to see code and visualizations.
 
-## Projects
+## Projects  
 
-### 1. Sales Data Analysis (SQL + Excel)
-- Dataset: `sample_sales_data.csv`  
-- Queries in `queries.sql` show revenue trends and leakage points.  
-- Excel dashboards visualize key KPIs like monthly revenue, top products, and average order value.
+### 1. Sales Data Analysis (SQL + Excel)  
+- Used a sales dataset (`sample_sales_data.csv`).  
+- Wrote SQL queries (see `queries.sql`) to find revenue trends, top products, and average order values.  
+- Exported results to Excel and created pivot tables/charts to track KPIs like monthly revenue and category performance.  
 
-### 2. Customer Retention Dashboard (Excel)
-- Tracks churn rates, repeat purchases, and region-wise performance.  
-- `dashboard_instructions.txt` provides step-by-step guidance to recreate the dashboard.
+### 2. Customer Retention Dashboard (Excel)  
+- Looked at customer order behavior to understand repeat purchases and churn.  
+- Built an Excel dashboard (steps in `dashboard_instructions.txt`) using pivot tables and slicers.  
+- The dashboard makes it easy to filter by region/category and check retention metrics.  
 
-### 3. Statistical Analysis (Python)
-- Jupyter Notebook: `analysis.ipynb`  
-- Uses regression and probability models for revenue prediction.  
-- Visualizations show data distributions and regression outputs.
+### 3. Statistical Analysis (Python)  
+- Jupyter Notebook (`analysis.ipynb`) where I applied regression and probability models on the same dataset.  
+- Tried to predict revenue using Quantity & Price.  
+- Plotted data distributions and regression lines to understand patterns.  
 
 ---
 
-## Technologies & Tools
-- SQL – query writing and data aggregation  
-- Excel (Advanced) – Pivot Tables, charts, dashboard creation  
-- Python – Pandas, Matplotlib, scikit-learn for analysis and modeling
+## Tools & Technologies  
+- SQL (SQLite syntax)  
+- Excel (Pivot tables, charts, dashboard building)  
+- Python (Pandas, Matplotlib, Seaborn, scikit-learn)  
 
+---
+
+## How to Explore  
+1. Open `queries.sql` to check sample SQL queries.  
+2. Open `sample_sales_data.csv` to view the dataset.  
+3. Read `dashboard_instructions.txt` to recreate the Excel dashboard.  
+4. Open `analysis.ipynb` directly on GitHub to see Python code and plots.  
 
