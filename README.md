@@ -1,6 +1,6 @@
 # Business Analytics Projects
 
-This repository demonstrates my hands-on experience with SQL, Excel dashboards, and Python-based statistical analysis—ideal for showcasing analytics skills for Business Analyst roles.
+This repository demonstrates my hands-on experience with SQL, Excel dashboards, and Python-based statistical analysis ideal for showcasing analytics skills for Business Analyst roles.
 
 ## How to View Projects
 1. Open this repo to read the overview and project descriptions.
